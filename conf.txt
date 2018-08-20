@@ -1,0 +1,26 @@
+KOLORY NA STRONIE:
+glowny kolor 38B0DE
+
+
+Inne proponowane:
+1. 38B0DE
+2. 6699FF
+3. 3399FF
+4. 6699CC
+5. 7093DB
+
+stare kolory
+1dde07
+
+3f7fc2
+829AFF
+
+
+BANER:
+1130 x 200
+255 150 255
+
+shape
+230 x 100 border 255 0 255
+100 x 60
+

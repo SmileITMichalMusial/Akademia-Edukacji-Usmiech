@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbColumns="4"
+	thumbRows="6"
+	title="Akademia Edukacji &quot;Uśmiech&quot;"
+	backgroundColor="FFFFFF"
+	textColor="000000"
+	galleryHeight="100%"
+
+>
+  <image imageURL="images/00_01_index.JPG"
+	thumbURL="thumbs/00_01_index.JPG"
+	linkURL="images/00_01_index.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1172.JPG"
+	thumbURL="thumbs/IMG_1172.JPG"
+	linkURL="images/IMG_1172.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/04.JPG"
+	thumbURL="thumbs/04.JPG"
+	linkURL="images/04.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1144.JPG"
+	thumbURL="thumbs/IMG_1144.JPG"
+	linkURL="images/IMG_1144.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1135.JPG"
+	thumbURL="thumbs/IMG_1135.JPG"
+	linkURL="images/IMG_1135.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1143.JPG"
+	thumbURL="thumbs/IMG_1143.JPG"
+	linkURL="images/IMG_1143.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1146.JPG"
+	thumbURL="thumbs/IMG_1146.JPG"
+	linkURL="images/IMG_1146.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1145.JPG"
+	thumbURL="thumbs/IMG_1145.JPG"
+	linkURL="images/IMG_1145.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1134.JPG"
+	thumbURL="thumbs/IMG_1134.JPG"
+	linkURL="images/IMG_1134.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/05.JPG"
+	thumbURL="thumbs/05.JPG"
+	linkURL="images/05.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/01.jpg"
+	thumbURL="thumbs/01.jpg"
+	linkURL="images/01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/02.JPG"
+	thumbURL="thumbs/02.JPG"
+	linkURL="images/02.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1118.JPG"
+	thumbURL="thumbs/IMG_1118.JPG"
+	linkURL="images/IMG_1118.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1119.JPG"
+	thumbURL="thumbs/IMG_1119.JPG"
+	linkURL="images/IMG_1119.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1120.JPG"
+	thumbURL="thumbs/IMG_1120.JPG"
+	linkURL="images/IMG_1120.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1124.JPG"
+	thumbURL="thumbs/IMG_1124.JPG"
+	linkURL="images/IMG_1124.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1173.JPG"
+	thumbURL="thumbs/IMG_1173.JPG"
+	linkURL="images/IMG_1173.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1174.JPG"
+	thumbURL="thumbs/IMG_1174.JPG"
+	linkURL="images/IMG_1174.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1121.JPG"
+	thumbURL="thumbs/IMG_1121.JPG"
+	linkURL="images/IMG_1121.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1122.JPG"
+	thumbURL="thumbs/IMG_1122.JPG"
+	linkURL="images/IMG_1122.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/03.JPG"
+	thumbURL="thumbs/03.JPG"
+	linkURL="images/03.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/01_01_o_nas.jpg"
+	thumbURL="thumbs/01_01_o_nas.jpg"
+	linkURL="images/01_01_o_nas.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>
