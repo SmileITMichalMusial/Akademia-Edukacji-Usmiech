@@ -144,6 +144,31 @@ background-color:#38B0DE;border-color:#ddd}.panel-default>.panel-heading+.panel-
 }
 
 
+table#szkolenie,  tr, td {
+    border-collapse: collapse;
+    text-align: center;
+    border-width: 1px;
+    border-bottom-width: 1px;
+    border-top-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-style: solid;
+    border-color: #38B0DE;
+    width: 100%;
+    height: 100%;
+
+
+}
+
+tbody#szkolenie td {
+    width: auto;
+}
+
+tbody#szkolenie tr:hover {
+    background: #38B0DE;
+}
+
+
 
 
 
