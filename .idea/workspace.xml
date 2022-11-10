@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd79b79b-8fc2-4805-b7fb-4ad367b17438" name="Changes" comment="20221030">
+      <change afterPath="$PROJECT_DIR$/graphics/original/marek_bartold_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/original/martyna_lekan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/original/michal_siedlecki_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/original/oliwia_oleszkiewicz_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_o_nas.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_o_nas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_20_martyna_lekan.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_20_martyna_lekan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_specjalisci.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_specjalisci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_oferta.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_oferta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_cennik.html" beforeDir="false" afterPath="$PROJECT_DIR$/06_cennik.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/07_kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/02_02_17_chal_siedlecki_szer_450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_02_17_chal_siedlecki_szer_450.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/02_02_19_oliwia_oleszkiewicz_szer_450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_02_19_oliwia_oleszkiewicz_szer_450.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/02_12_marek_bartold_szer_450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_12_marek_bartold_szer_450.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/02_12_marek_bartold_wys_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_12_marek_bartold_wys_250.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/02_17_michal_siedlecki_wys_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_17_michal_siedlecki_wys_250.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/02_19_oliwia_oleszkiewicz_wys_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_19_oliwia_oleszkiewicz_wys_250.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DV8Dxrs2O4OeENDNpEnggNQAnX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java/git/Akademia-Edukacji-Usmiech&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\git\Akademia-Edukacji-Usmiech" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\git\Akademia-Edukacji-Usmiech\_old" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd79b79b-8fc2-4805-b7fb-4ad367b17438" name="Changes" comment="" />
+      <created>1660772834958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660772834958</updated>
+      <workItem from="1660772888468" duration="2412000" />
+      <workItem from="1661293247248" duration="95000" />
+      <workItem from="1661896950594" duration="2301000" />
+      <workItem from="1662759739743" duration="42000" />
+    </task>
+    <task id="LOCAL-00001" summary="20220818">
+      <created>1660775589202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660775589202</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20220831">
+      <created>1661898519243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661898519243</updated>
+    </task>
+    <task id="LOCAL-00003" summary="20220831">
+      <created>1661898653724</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661898653724</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="20220818" />
+    <MESSAGE value="20220831" />
+    <MESSAGE value="20221030" />
+    <option name="LAST_COMMIT_MESSAGE" value="20221030" />
+  </component>
+</project>
