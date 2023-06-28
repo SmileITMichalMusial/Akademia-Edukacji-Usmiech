@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd79b79b-8fc2-4805-b7fb-4ad367b17438" name="Changes" comment="20221030">
-      <change afterPath="$PROJECT_DIR$/graphics/original/marek_bartold_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/original/martyna_lekan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/original/michal_siedlecki_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/original/oliwia_oleszkiewicz_2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_o_nas.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_o_nas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_20_martyna_lekan.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_20_martyna_lekan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_specjalisci.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_specjalisci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_oferta.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_oferta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_cennik.html" beforeDir="false" afterPath="$PROJECT_DIR$/06_cennik.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/07_kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/02_02_17_chal_siedlecki_szer_450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_02_17_chal_siedlecki_szer_450.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/02_02_19_oliwia_oleszkiewicz_szer_450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_02_19_oliwia_oleszkiewicz_szer_450.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/02_12_marek_bartold_szer_450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_12_marek_bartold_szer_450.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/02_12_marek_bartold_wys_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_12_marek_bartold_wys_250.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/02_17_michal_siedlecki_wys_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_17_michal_siedlecki_wys_250.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/02_19_oliwia_oleszkiewicz_wys_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_19_oliwia_oleszkiewicz_wys_250.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/02_01_01_michal_musial_szer_450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_01_01_michal_musial_szer_450.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/02_01_michal_musial_wys_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_01_michal_musial_wys_250.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java/git/Akademia-Edukacji-Usmiech&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/java/git/Poradnia-Psychologiczna-Usmiech",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java\git\Akademia-Edukacji-Usmiech" />
