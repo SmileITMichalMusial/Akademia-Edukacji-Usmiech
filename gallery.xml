@@ -13,12 +13,7 @@
         galleryHeight="100%"
 
 >
-    <image imageURL="images/01.JPG"
-           thumbURL="thumbs/01.JPG"
-           linkURL="images/01.JPG"
-           linkTarget="_blank">
-        <caption><![CDATA[]]></caption>
-    </image>
+
     <image imageURL="images/03.JPG"
            thumbURL="thumbs/03.JPG"
            linkURL="images/03.JPG"
