@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd79b79b-8fc2-4805-b7fb-4ad367b17438" name="Changes" comment="20221030">
+      <change afterPath="$PROJECT_DIR$/02_25_emilia_habiera.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_26_wiktor_struczewski.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/02_02_25_emilia_habiera_szer_450.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/02_25_emilia_habiera_wys_250.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/02_26_wiktor_struczewski_wys_250.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/original/emilia_habiera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/original/wiktor_struczewski.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/original/wiktor_struczewski_1.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_23_adam_sochon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_old/02_23_adam_sochon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_specjalisci.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_specjalisci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_cennik.html" beforeDir="false" afterPath="$PROJECT_DIR$/06_cennik.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="20251201_ds" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java/git/Poradnia-Psychologiczna-Usmiech",
+    "last_opened_file_path": "D:/java/git/Akademia-Edukacji-Usmiech",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
